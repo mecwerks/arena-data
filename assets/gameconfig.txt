@@ -1,2 +1,0 @@
-defaultSound "sound/misc/silence.wav"
-addLoadingScreen menuback ( 0 0 0 ) 1.333333

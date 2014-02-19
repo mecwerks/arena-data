@@ -1,4 +1,4 @@
-arena-data
+mecwerks-data
 ==========
 
-Quake III Arena / Team Arena replacement data for creating new games using Spearmint.
+Creative Commons data for use with Mecwerks-Engine.

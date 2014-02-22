@@ -1,0 +1,7 @@
+{
+	name            Marcus
+	model           Sarge
+	aifile  	bots/marcus_c.c
+	arenaLord       1
+}
+
